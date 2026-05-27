@@ -5,7 +5,7 @@ I am currently a student in software development at the Bit Academy at Noorderpo
 ### Public projects
 
 #### Deep Dives
-Week long team projects focusing on quickly developing a concept based on the needs of the needs of the Client
+Week long team projects focusing on quickly developing a concept based on the needs of the Client
 - [Kleierbal webshop](https://github.com/avmsteensma/deepdive_kleierbal_2025)
 
 #### Scrum
