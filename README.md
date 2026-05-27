@@ -1,6 +1,6 @@
-# Sander Steensma
+# Hello!
 
-Currently a student in software development at the Bit Academy at Noorderpoort, Currently looking for an internship in database or backend development.
+I am currently a student in software development at the Bit Academy at Noorderpoort, looking for an internship in database or backend development.
 
 ### Public projects
 
